@@ -1,8 +1,8 @@
 import logo from './candy_profile_photo.jpeg';
 import './App.css';
-import About from './About';
-import Projects from './Projects';
-import Contact from './Contact';
+import About from './About.js';
+import Projects from './Projects.js';
+import Contact from './Contact.js';
 
 
 
